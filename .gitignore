@@ -1,7 +1,10 @@
 .idea
 idea
 .DS_Store
-
+.static/ckeditor
+.static/css/bootstrap.css
+.static/css/font-awesome.css
+static/admin
 *.egg-info/
 .installed.cfg
 *.egg
